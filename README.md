@@ -1,4 +1,4 @@
-## teat 1
+## Teat 1
 
 (https://github.com/MosChanvit/cashier)
 
